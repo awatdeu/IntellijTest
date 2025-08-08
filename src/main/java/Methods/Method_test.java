@@ -1,3 +1,5 @@
+package Methods;
+
 public class Method_test {
     public static void main(String[] args) {
 
