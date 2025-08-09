@@ -11,7 +11,7 @@ public class BankAccount {
         if (amount > balance) {
             System.out.println("The Account balance is not sufficient."); // این پیغام چاپ میشه
         } else {
-            // در غیر این صورت، برداشت انجام میشه
+            // در غیر اینصورت، برداشت انجام میشه
             balance = balance - amount; // balance -= amount
         }
     }

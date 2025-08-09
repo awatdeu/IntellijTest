@@ -8,7 +8,7 @@ public class ObjectNo1
         System.out.println(b.balance);
         b.deposit(50.5);
         System.out.println(b.balance);
-        b.withdraw(200);
+        b.withdraw(210);
         System.out.println(b.balance);
     }
 }
