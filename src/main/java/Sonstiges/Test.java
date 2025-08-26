@@ -24,10 +24,7 @@ public class Test {
 //        System.out.println(a);
         int [] a={12,10,1,2,88,14,12,9,21,51,54,41,41,12};
 
-        for(int i=0; i<a.length;i++){
-            Arrays.sort(a);
-            System.out.println(a[i]);
-        }
+      Arrays.sort(a);
 
     }
 }
