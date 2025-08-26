@@ -23,9 +23,11 @@ public class Test {
 //        a[4]=5;
 //        System.out.println(a);
         int [] a={12,10,1,2,88,14,12,9,21,51,54,41,41,12};
-        Arrays.sort(a);
+
         for(int i=0; i<a.length;i++){
+            Arrays.sort(a);
             System.out.println(a[i]);
         }
+
     }
 }
