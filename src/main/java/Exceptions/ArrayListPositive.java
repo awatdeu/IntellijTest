@@ -20,7 +20,6 @@ public class ArrayListPositive {
     }
 
 
-
     public static class PositiveGanzzahlListe extends ArrayList<Integer> {
 
         private void wertPruefen(Integer wert) {
