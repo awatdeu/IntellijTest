@@ -9,7 +9,7 @@ public class Wdh {
         List<Integer> list = new ArrayList<Integer>();
 
         list.add(3);
-        list.add(-7);
+        list.add(12);
         list.add(4);
         list.add(-11);
 
