@@ -7,9 +7,9 @@ public class main {
 
         Scanner myScanner = new Scanner(System.in);
         System.out.println("Fuegen Sie ein Nummer: ");
-        int a = myScanner.nextInt();
+        int b = myScanner.nextInt();
 
-        switch (a) {
+        switch (b) {
             case 1:
                 System.out.println("Eins");
                 break;
