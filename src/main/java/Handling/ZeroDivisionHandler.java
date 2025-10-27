@@ -19,7 +19,7 @@ public class  ZeroDivisionHandler {
             System.out.println("نتیجه: " + result);
 
         } catch (ArithmeticException e) {
-            System.out.println("خطا: تقسیم بر صفر مجاز نیست!");
+            System.out.println("خطا: تقسیم بر صفر مجاز نیست!!!");
             System.out.println("لطفاً یک عدد غیر از صفر را به عنوان مقسوم علیه وارد کنید.");
         }
 
