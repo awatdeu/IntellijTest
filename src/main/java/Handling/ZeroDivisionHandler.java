@@ -10,9 +10,9 @@ public class  ZeroDivisionHandler {
         Scanner scanner=new Scanner(System.in);
 
         try {
-            System.out.println("عدد اول را وارد کنید : ");
+            System.out.println("لطفا عدد اول را وارد کنید : ");
             int numerator= scanner.nextInt();
-            System.out.println("عدد دوم را وارد کنید :  ");
+            System.out.println("لطفا عدد دوم را وارد کنید :  ");
             int denominator = scanner.nextInt();
             int result = numerator / denominator;
 
